@@ -1,1 +1,1 @@
-# Discrete-Diffusion-Model-with-Contrastive-Learning-for-Music-to-Natural-and-Long-Dance-Generation-
+The dataset and code will be uploaded soon.
